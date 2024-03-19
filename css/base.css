@@ -248,7 +248,6 @@ a:focus-visible {
 	src:
 	  url('../fonts/SAVEDBYZ.TTF') format('truetype'),
 	font-weight: 200 400;
-	font-stretch: 75% 125%;
   }
 
 .frame__title-main {
