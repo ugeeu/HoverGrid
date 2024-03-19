@@ -247,7 +247,7 @@ a:focus-visible {
 	font-family: 'Saved by Zero';
 	src:
 	  url('../fonts/SAVEDBYZ.TTF') format('truetype'),
-	font-weight: 200 900;
+	font-weight: 200 400;
 	font-stretch: 75% 125%;
   }
 
