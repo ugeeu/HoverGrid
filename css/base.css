@@ -255,7 +255,6 @@ a:focus-visible {
 	font-family: 'Saved by Zero';
 	text-transform: none;
 	line-height: 0.9;
-	font-weight: 400;
 	margin: 0;
 	grid-area: content;
 	color: var(--color-title);
