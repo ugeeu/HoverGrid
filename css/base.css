@@ -243,7 +243,17 @@ a:focus-visible {
 	grid-template-areas: 'content-item';
 }
 
+@font-face {
+	font-family: 'Saved by Zero';
+	src:
+	  url('./fonts/SAVEDBYZ.TTF') format('ttf supports variations'),
+	  url('./fonts/SAVEDBYZ.TTF') format('ttf-variations');
+	font-weight: 200 900;
+	font-stretch: 75% 125%;
+  }
+
 .frame__title-main {
+	font-family: 'Saved by Zero';
 	text-transform: none;
 	line-height: 0.9;
 	font-weight: 400;
@@ -255,6 +265,7 @@ a:focus-visible {
 	align-content: center;
 	width: 100%;
 	pointer-events: none;
+
 }
 
 .frame__title-main span:last-child {
